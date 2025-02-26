@@ -1,0 +1,27 @@
+{
+    "wallpaper": ".config/wal/walpaper_guitar_static.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0a0c",
+        "foreground": "#eed9d5",
+        "cursor": "#eed9d5"
+    },
+    "colors": {
+        "color0": "#0d0a0c",
+        "color1": "#CB9574",
+        "color2": "#627585",
+        "color3": "#C37D82",
+        "color4": "#778693",
+        "color5": "#9F9394",
+        "color6": "#D99D94",
+        "color7": "#eed9d5",
+        "color8": "#a69795",
+        "color9": "#CB9574",
+        "color10": "#627585",
+        "color11": "#C37D82",
+        "color12": "#778693",
+        "color13": "#9F9394",
+        "color14": "#D99D94",
+        "color15": "#eed9d5"
+    }
+}
