@@ -1,6 +1,10 @@
 # Hyprland Dotfiles
 
 Theme based on anime Bocchi The Rock
+
+![rofi](https://github.com/user-attachments/assets/3c541c9a-88f1-4fea-958a-b1bad1742b2d)
+
+
 ## Installation
 
 Clone the repository:
